@@ -1,4 +1,4 @@
-package problems;
+package problems.arrays;
 
 public class RemoveElement {
     public static int removeElement(int[] nums, int val) {
